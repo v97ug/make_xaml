@@ -1,0 +1,735 @@
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="2画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="刀" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="3画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="万" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="丸" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="工" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="弓" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="才" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="4画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="今" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="元" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="公" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="内" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="分" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="切" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="午" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="友" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="太" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="少" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="引" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="心" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="戸" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="方" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="止" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="毛" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="父" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="牛" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="5画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="兄" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="冬" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="北" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="半" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="古" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="台" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="外" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="市" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="広" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="母" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="用" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="矢" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="6画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="交" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="会" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="光" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="合" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="同" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="回" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="地" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="多" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="寺" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="当" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="毎" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="池" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="米" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="羽" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="考" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="肉" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="自" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="色" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="行" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="西" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="7画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="体" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="何" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="作" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="図" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="声" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="売" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="弟" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="形" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="来" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="汽" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="社" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="角" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="言" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="谷" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="走" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="近" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="里" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="麦" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="8画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="京" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="国" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="夜" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="妹" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="姉" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="岩" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="店" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="明" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="東" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="歩" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="画" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="直" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="知" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="長" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="門" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="9画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="前" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="南" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="室" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="後" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="思" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="星" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="春" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="昼" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="活" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="海" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="点" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="秋" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="科" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="茶" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="計" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="風" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="食" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="首" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="10画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="原" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="夏" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="家" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="帰" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="弱" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="時" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="書" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="紙" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="記" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="通" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="馬" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="高" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="11画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="強" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="教" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="理" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="細" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="組" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="船" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="週" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="野" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="雪" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="魚" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="鳥" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="黄" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="黒" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="12画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="場" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="晴" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="朝" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="番" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="答" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="絵" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="買" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="道" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="間" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="雲" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="13画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="園" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="数" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="新" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="楽" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="話" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="遠" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="電" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="14画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="歌" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="算" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="聞" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="語" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="読" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="鳴" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="15画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="線" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="16画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="親" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="頭" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
+
+        <Grid>
+            <TextBlock FontSize="60" HorizontalAlignment="Left" Margin="87,0,0,0" Text="18画" TextWrapping="Wrap" VerticalAlignment="Top" Height="74" Width="175"/>
+            <GridView ScrollViewer.VerticalScrollMode="Disabled" Margin="217,0,0,0" VerticalAlignment="Top">
+                    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="曜" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+    <Border BorderBrush="Black" HorizontalAlignment="Center" BorderThickness="2" Background="White" Height="145" Width="145" Margin="13,0,0,10" Tapped="MoveMakeQuestion">
+                        <TextBlock  FontSize="120" HorizontalAlignment="Center" Text="顔" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="140" Margin="17,-12,0,0" />
+                    </Border>
+
+            </GridView>
+        </Grid>
